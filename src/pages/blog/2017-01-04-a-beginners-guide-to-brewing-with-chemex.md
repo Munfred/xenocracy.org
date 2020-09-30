@@ -11,8 +11,7 @@ description: Technology’s impact on xenocratization is likely to be more
 featuredpost: false
 featuredimage: /img/tech.jpg
 tags:
-  - brewing
-  - chemex
+  - technology
 ---
 **Technology and Political Openness**
 
