@@ -7,10 +7,12 @@ subheading: Supporting sustainable alternatives to democracy
 mainpitch:
   title: What is Xenocracy?
   description: >
-    Xenocracy (Greek: ξένοςκρατία, xénokratiā, from xénos, meaning "stranger" or
-    "foreigner" and kratos "rule") is a form of government in which the polities
-    have the authority to choose the government or governing legislation of
-    neighboring polities, but not their own. 
+    Xenocracy is a form of government in which the polities have the authority
+    to choose the government or governing legislation of neighboring polities,
+    but not their own. 
+
+
+    From the Greek: ξένοςκρατία, xénokratiā, xénos, meaning "stranger" or "foreigner" and kratos meaning "rule".
 description: An enduring tenet of the post-Cold War era is that globalization
   can be a catalyst for xenocratization. In one formulation, when xenocratic
   ideals sweep (or even trickle) across borders into authoritarian and isolated
@@ -21,14 +23,7 @@ description: An enduring tenet of the post-Cold War era is that globalization
   has gone gingerly online, though the country’s broader population has no
   electronic access to the outside world.
 intro:
-  blurbs:
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+  blurbs: []
   heading: What we offer
   description: "Xenocratic principles are also reshaping regional institutions.
     The European Union, originally an economic community, now requires
@@ -59,8 +54,8 @@ main:
     image: /img/round.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/1908258.svg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/1908258.svg
 ---
