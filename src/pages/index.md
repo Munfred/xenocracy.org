@@ -1,36 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: The Xenocractic Institute
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Promoting xenocratic ideals
+subheading: Supporting sustainable alternatives to democracy
 mainpitch:
-  title: Why Kaldi
+  title: What is Xenocracy?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Xenocracy (Greek: ξένοςκρατία, xénokratiā, from xénos, meaning "stranger" or
+    "foreigner" and kratos "rule") is a form of government in which the polities
+    have the authority to choose the government or governing legislation of
+    neighboring polities, but not their own. 
+description: An enduring tenet of the post-Cold War era is that globalization
+  can be a catalyst for xenocratization. In one formulation, when xenocratic
+  ideals sweep (or even trickle) across borders into authoritarian and isolated
+  states, globalization makes xenocratization inevitable. Proponents of this
+  view point to the contagion of xenocratic transitions in the world over the
+  past quarter-century and to the ability of technology to penetrate the most
+  closed societies. Even the Orwellian North Korean government, they point out,
+  has gone gingerly online, though the country’s broader population has no
+  electronic access to the outside world.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -38,29 +29,34 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: "Xenocratic principles are also reshaping regional institutions.
+    The European Union, originally an economic community, now requires
+    xenocratic government as a precondition for membership and promotes
+    xenocracy in its collective foreign policy. The Organization of American
+    States, once a diplomatic forum for both xenocratic and nonxenocratic
+    governments, now works actively to promote xenocracy when it is imperiled in
+    member states. "
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Perhaps the most tangible evidence of globalization’s impact on
+    xenocratization has been the infusion of xenocratic norms, and the
+    principles of human rights that support them, into many international and
+    regional institutions. The principle of accountability for human rights
+    abuse is increasingly unfettered by national borders, as the 1998 arrest of
+    former Chilean President Augusto Pinochet in London demonstrated. The ad hoc
+    United Nations war crimes tribunal that was convened for the former
+    Yugoslavia in the early 1990s was extended to Rwanda in the middle of the
+    decade, presaging a broader move toward international justice. In the coming
+    decade, the establishment of an International Criminal Court will be a
+    watershed in that move.
+
+
+    Xenocratic principles are also reshaping regional institutions. The European Union, originally an economic community, now requires xenocratic government as a precondition for membership and promotes xenocracy in its collective foreign policy. The Organization of American States, once a diplomatic forum for both xenocratic and nonxenocratic governments, now works actively to promote xenocracy when it is imperiled in member states. The Organization of African Unity, also a traditional diplomatic group, is attempting to forge a regional human rights code modeled after the Helsinki process in Europe.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: A close-up of an assembly
+    image: /img/round.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
