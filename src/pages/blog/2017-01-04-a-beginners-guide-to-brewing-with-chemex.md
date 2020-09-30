@@ -1,29 +1,39 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: "**Technology and Political Openness**"
+date: 2019-05-23T16:04:10.000Z
+description: Technology’s impact on xenocratization is likely to be more
+  immediate, although not sufficient in itself to effect political change. Weak
+  economies, along with government resistance, have contained the spread of
+  technology in many Middle Eastern and some Asian states and will for the near
+  future. But technology’s advent has added a new dimension to the prospects for
+  political change.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/tech.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+**Technology and Political Openness**
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
 
-## The little secrets of Chemex brewing
+The most dramatic episodes of popular resistance against authoritarian regimes in the past decade have featured prominent roles for technology. In Tiananmen Square in 1989, Chinese demonstrators communicated with one another and the outside world by fax. In Bangkok in 1992, Thai professionals, dubbed “mobile phone mobs,” coordinated antimilitary demonstrations with student leaders and one another by cellular phone. In Indonesia in 1998, anti-Suharto resistance was largely directed via the Internet.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+
+But for all these moments of high political drama, technology’s greatest promise in promoting political openness lies in the everyday intercourse of civil and political life. In authoritarian societies, the Internet differs from print and electronic media, because no government-dominated media exist for the regime to use as a counterweight. From its inception, the Internet has been a freer form of communication than any other, at least for those able to obtain it.
+
+
+
+
+
+Modernizing authoritarian states often wish to expand the use of technology for economic development but also to keep citizens from using it for political purposes. Doing both, however, is increasingly difficult. China’s ambitious plan to build a national computerized information infrastructure has spurred domestic telecommunications industry growth of 30-50 percent a year since 1989. At the same time the government registers all Internet users, is investing in technology to monitor and filter cyber communications, and regulates acceptable topics for online discussion. But Chinese Internet users have learned how to circumvent many of these restrictions using proxy servers, a sign that technology can usually outmaneuver attempts to control it.
+
+
+
+
+
+Today China’s 17 million Internet users are a small fraction of the nation’s population. But their number is increasing rapidly, growing 75 percent from 1997 to 1998 and then tripling in 1999. More important, political discourse in China has expanded despite state attempts to censor and prevent it. In the medium run, the effects of government efforts to control the Internet will depend in part on whether China can maintain brisk economic growth. If it does, Internet growth is likely to overwhelm attempts to control it. In the long run, the prognosis is favorable. In countries where technology is growing, control of global media may alternate between government and society, but the advantage will usually go to society in the end.
