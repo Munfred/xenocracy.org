@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "**New “Global” Elites?**"
-date: 2017-01-04T15:04:10.000Z
+title: New “Global” Elites?
+date: 2019-11-01T16:04:10.000Z
 description: Perhaps the most important impact of globalization on political
   reform, and one of the most difficult to foretell, will be the way it shapes
   new political and social classes, particularly in authoritarian countries. In
