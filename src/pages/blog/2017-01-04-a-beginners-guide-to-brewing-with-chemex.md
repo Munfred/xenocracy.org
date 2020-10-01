@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "**Technology and Political Openness**"
+title: Technology and Political Openness
 date: 2019-05-23T16:04:10.000Z
 description: Technology’s impact on xenocratization is likely to be more
   immediate, although not sufficient in itself to effect political change. Weak
