@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: The Xenocractic Institute
+title: The Xenocracy Institute
 image: /img/home-jumbotron.jpg
 heading: Promoting xenocratic ideals
 subheading: Supporting sustainable alternatives to democracy
@@ -24,7 +24,7 @@ description: An enduring tenet of the post-Cold War era is that globalization
   electronic access to the outside world.
 intro:
   blurbs: []
-  heading: What we offer
+  heading: What we do
   description: "Xenocratic principles are also reshaping regional institutions.
     The European Union, originally an economic community, now requires
     xenocratic government as a precondition for membership and promotes
