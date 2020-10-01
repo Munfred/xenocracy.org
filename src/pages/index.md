@@ -21,17 +21,37 @@ description: An enduring tenet of the post-Cold War era is that globalization
   past quarter-century and to the ability of technology to penetrate the most
   closed societies. Even the Orwellian North Korean government, they point out,
   has gone gingerly online, though the country’s broader population has no
-  electronic access to the outside world.
+  electronic access to the outside world. With Xenocracy, foreign interference
+  not a bug anymore. It’s a feature.  Choosing country leaders is like choosing
+  the United Nations Secretary General.  They will all be softspoken gentlemen
+  trying to stop genocide. Countries incentivized to reveal their true
+  preferences.  No more second guessing china.
 intro:
-  blurbs: []
+  blurbs:
+    - text: >+
+        Representative Xenocracy: polity leaders are chosen by the leaders of
+        neighboring polities 
+
+      image: /img/apple-touch-icon.png
+    - image: /img/safari-pinned-tab.svg
+      text: "Popular Xenocracy: polity leaders chosen by the popular vote in
+        neighboring polities "
+    - text: "Direct Xenocracy: people from other polities are directly in charge of
+        voting for laws and propositions"
+      image: /img/apple-touch-icon.png
+    - text: "Xenocracy implementation: Ranked choice voting and weighted vote by
+        inverse distance of polity center of government. "
+      image: /img/safari-pinned-tab.svg
   heading: What we do
-  description: "Xenocratic principles are also reshaping regional institutions.
-    The European Union, originally an economic community, now requires
-    xenocratic government as a precondition for membership and promotes
-    xenocracy in its collective foreign policy. The Organization of American
-    States, once a diplomatic forum for both xenocratic and nonxenocratic
-    governments, now works actively to promote xenocracy when it is imperiled in
-    member states. "
+  description: >+
+    Xenocratic principles are also reshaping regional institutions. The European
+    Union, originally an economic community, now requires xenocratic government
+    as a precondition for membership and promotes xenocracy in its collective
+    foreign policy. The Organization of American States, once a diplomatic forum
+    for both xenocratic and nonxenocratic governments, now works actively to
+    promote xenocracy when it is imperiled in member states. 
+
+
 main:
   heading: Great coffee with no compromises
   description: >
